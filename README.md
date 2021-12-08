@@ -77,6 +77,11 @@
 - Notion
 - Discord
 - Postman
+
+### 아키텍처
+<img src="https://cdn.discordapp.com/attachments/895616160932978718/918037494367399986/yam-architecture.jpg" alt="DBERD" width="800" />
+<img src="https://cdn.discordapp.com/attachments/895616160932978718/918037561501442048/6b1dca2930706f37.gif" alt="DBERD" width="800" />
+
 ## 5. 설계
 - ### 기능명세서
 ![기능명세서](https://user-images.githubusercontent.com/60912550/145166698-9af10998-61b5-434a-8872-bad3b85af2d1.jpg)
